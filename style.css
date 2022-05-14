@@ -78,7 +78,7 @@ h1 {
 
 .label-click {
   min-width: 30px;
-  height: 30px;
+  height: 40px;
   /* border: 1px solid red; */
 }
 
@@ -135,6 +135,7 @@ h1 {
 #page5:checked~.label-container .label5 {
   width: 20px;
   height: 20px;
+  transform: scale(1.1);
   background: var(--primary-color);
 }
 
