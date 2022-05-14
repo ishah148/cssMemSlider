@@ -212,7 +212,12 @@ h1 {
 }
 
 @media (max-width: 420px) {
+  .label-container{
+    padding-top: 15px;
+    height: 100px;
+  }
   .labels {
     width: 100%;
   }
+
 }
